@@ -1,8 +1,7 @@
 # 🛡️ Security Analyst  
 
-![Cybersecurity](https://cdn.pixabay.com/photo/2017/08/28/11/06/security-2688919_1280.jpg)  
 
-Passionate about securing digital assets, identifying vulnerabilities, and mitigating cyber threats. Constantly learning and adapting in the ever-evolving field of cybersecurity.  
+I am passionate about securing digital assets, identifying vulnerabilities, and mitigating cyber threats. Constantly learning and adapting in the ever-evolving field of cybersecurity.  
 
 ## 🏴‍☠️ Areas of Expertise  
 🔹 Authentication  
@@ -43,9 +42,7 @@ Passionate about securing digital assets, identifying vulnerabilities, and mitig
 > _"Cybersecurity is a journey, not a destination."_  
 
 ## 📫 Let's Connect!
-📧 Email: [your.email@example.com](mailto:murashmurash07@gmail.com)
-🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/charleskiyomuratha371)
+📧 Email: [murashmurash07@gmail.com](mailto:murashmurash07@gmail.com)
+🔗 LinkedIn: [charleskiyomuratha371](https://www.linkedin.com/in/charleskiyomuratha371)
 
 ---
-
-![Security Awareness](https://media.istockphoto.com/id/1277398320/photo/cyber-security-data-protection-concept.jpg?s=612x612&w=0&k=20&c=G5RJzMlU7x6GZlI5_GI3bS8_dPRpDEkN_zc4gOZtK9I=)
